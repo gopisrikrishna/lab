@@ -1,0 +1,16 @@
+html{
+    height:100%;
+}
+body{
+    background-color:#2f3035;
+    background-image:url(images/light.jpg);
+    background-repeat: no-repeat;
+    background-size:cover;
+    background-position:center;
+}
+nav{
+    background-color: rgb(22, 19, 19,0.164);
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
